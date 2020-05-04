@@ -3,7 +3,11 @@ Notes on Django web framework
 
 # Creating a new project
 
-# Adding an app a project
+## What are the files that are created?
+
+# Adding an app to a project
+
+## What is an app?
 
 # Starting the server
 
