@@ -18,3 +18,8 @@ Notes on Django web framework
 # Creating a superuser for the Admin Panel
 
 # Collecting static files into one folder
+
+# Templates
+Can pass information from views.py to templates being rendered
+
+# {{ }} vs {% %}
